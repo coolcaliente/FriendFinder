@@ -1,7 +1,7 @@
 var friends = [
     {
         name: "Retsuko",
-        photo: "https://img7-us.anidb.net/pics/anime/186373.jpg",
+        photo: "https://www.anime-planet.com/images/characters/retsuko-104170.jpg?t=1461859621",
         scores: [
             5,
             1,
@@ -17,7 +17,7 @@ var friends = [
     },
     {
         name: "Fenneko",
-        photo: "https://img7-us.anidb.net/pics/anime/216510.jpg",
+        photo: "https://www.anime-planet.com/images/characters/fennes-141579.jpg?t=1518554805",
         scores: [
             2,
             5,
@@ -33,7 +33,7 @@ var friends = [
     },
     {
         name: "Haida",
-        photo: "https://www.anime-planet.com/images/characters/thumbs/haida-105628.jpg?t=1461865210",
+        photo: "https://www.anime-planet.com/images/characters/haida-105628.jpg?t=1461865210",
         scores: [
             4,
             3,
@@ -49,7 +49,7 @@ var friends = [
     },
     {
         name: "Tsunoda",
-        photo: "https://img7-us.anidb.net/pics/anime/216511.jpg",
+        photo: "https://www.anime-planet.com/images/characters/thumbs/tsunoda-aggressive-retsuko-125161.jpg?t=1493527596",
         scores: [
             1,
             4,
@@ -65,7 +65,7 @@ var friends = [
     },
     {
         name: "Ton Buchou",
-        photo: "https://img7-us.anidb.net/pics/anime/63763.png",
+        photo: "https://www.anime-planet.com/images/characters/chief-pig-105620.jpg",
         scores: [
             3,
             1,
@@ -81,7 +81,7 @@ var friends = [
     },
     {
         name: "Gori Buchou",
-        photo: "https://img7-us.anidb.net/pics/anime/186372.jpg",
+        photo: "https://www.anime-planet.com/images/characters/chief-gorilla-105623.jpg",
         scores: [
             3,
             2,
